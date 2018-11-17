@@ -1,0 +1,2 @@
+model_checkpoint_path: "elu_and_batch_normalization_mnist.ckpt"
+all_model_checkpoint_paths: "elu_and_batch_normalization_mnist.ckpt"
